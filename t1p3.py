@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-# Created by Aidan Lalonde-Novales
+# Created by Aidan Lalonde-Novales and Jonathan Pasco-Arnone
 # Created Sept 13th 2023
 # This program is a random number guessing game.
 
